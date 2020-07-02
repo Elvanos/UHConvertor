@@ -1,0 +1,38 @@
+id;name;title;rank;note;single_value;groups
+1;"=""Provedení""";"=""Provedení""";1;"=""""";1;1,2,3,6,7
+2;"=""Délka cylindru""";"=""Délka cylindru""";2;"=""<p> 	25 mm</p> """;1;1
+3;"=""Průměr cylindru""";"=""Průměr cylindru""";3;"=""<p> 	18 mm</p> """;1;1
+4;"=""Povrchová úprava""";"=""Povrchová úprava""";4;"=""""";1;1,2,3,5,6,7,8,9,10,11,12,13,14,15,16
+5;"=""Brzda""";"=""Brzda""";10;"=""""";1;2
+6;"=""Průměr kolečka""";"=""Průměr kolečka""";11;"=""""";1;2
+7;"=""Montážní výška""";"=""Montážní výška""";12;"=""""";1;2
+8;"=""Šířka kolečka""";"=""Šířka kolečka""";13;"=""""";1;2
+9;"=""Statická nosnost""";"=""Statická nosnost""";14;"=""""";1;2
+10;"=""Rozteč děr plotničky""";"=""Rozteč děr plotničky""";15;"=""""";1;2
+11;"=""Rozměr plotničky pro uchycení""";"=""Rozměr plotničky pro uchycení""";16;"=""""";1;2
+12;"=""Typ klíče""";"=""Typ klíče""";5;"=""""";1;1
+13;"=""Opakovatelnost klíče""";"=""Opakovatelnost klíče""";6;"=""""";1;1
+14;"=""Délka""";"=""Délka""";7;"=""""";1;1,3,6
+15;"=""Výška""";"=""Výška""";8;"=""""";1;1
+16;"=""Materiál""";"=""Materiál""";9;"=""""";1;1,2,3,5,6,7,8,9,10,11,12,13,14,15,16
+17;"=""Tloušťka podložky""";"=""Tloušťka podložky""";17;"=""""";1;3
+18;"=""Tloušťka skla""";"=""Tloušťka skla""";18;"=""""";1;3
+19;"=""Rozměr šroubu""";"=""Rozměr šroubu""";19;"=""""";1;2
+20;"=""Délka dříku se závitem""";"=""Délka dříku se závitem""";20;"=""""";1;2,6
+21;"=""Délka šroubu""";"=""Délka šroubu""";21;"=""""";1;6,10
+22;"=""Délka výsuvu""";"=""Délka výsuvu""";22;"=""""";1;11
+23;"=""Délka věšáku""";"=""Délka věšáku""";23;"=""""";1;13
+24;"=""Rozměr závěsu""";"=""Rozměr závěsu""";24;"=""""";1;7
+25;"=""Průměr závěsu""";"=""Průměr závěsu""";25;"=""""";1;6,10
+26;"=""Rozteč děr""";"=""Rozteč děr""";26;"=""""";1;16
+27;"=""Rozměr""";"=""Rozměr""";27;"=""""";1;3,8,13,16
+29;"=""Původní cena bez DPH""";"=""Původní cena bez DPH""";28;"=""""";1;1,2,3,5,6,7,8,9,10,11,12,13,14,15,16
+30;"=""Průměr šroubu""";"=""Průměr šroubu""";29;"=""""";1;2,6
+31;"=""Průměr kluzáku""";"=""Průměr kluzáku""";30;"=""""";1;2
+32;"=""Telefon""";"=""Telefon""";31;"=""""";1;8,13
+33;"=""Délka závitu""";"=""Délka závitu""";32;"=""""";1;2
+34;"=""Průměr""";"=""Průměr""";33;"=""""";1;3,10
+35;"=""Série""";"=""Série""";34;"=""""";1;1
+36;"=""Jazýček""";"=""Jazýček""";35;"=""""";1;1
+38;"=""Závit""";"=""Závit""";37;"=""""";1;6,10
+39;"=""Stav""";"=""Stav""";38;"=""""";1;1,3,8

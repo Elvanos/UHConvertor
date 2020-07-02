@@ -1,0 +1,7 @@
+id;name;preferred;delivery_date
+7;"=""Skladem""";1;0
+8;"=""Není skladem - na dotaz""";0;0
+9;"=""Skladem u dodavatele""";0;14
+10;"=""Nedostupný""";0;NULL_VALUE
+11;"=""Momentálně není skladem""";0;14
+13;"=""Speciální objednávka""";0;NULL_VALUE

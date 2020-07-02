@@ -1,0 +1,7 @@
+*.idea
+*.vscode
+.history
+/workfiles
+/node_modules
+/Wordpress
+/alcTheme/desktop.ini

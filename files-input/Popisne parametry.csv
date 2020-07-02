@@ -1,0 +1,15 @@
+id;value;type;code
+1;"=""Využítí""";"=""text""";NULL_VALUE
+2;"=""Obsah balení""";"=""text""";NULL_VALUE
+3;"=""Rozměry""";"=""text""";NULL_VALUE
+4;"=""Materiál""";"=""text""";NULL_VALUE
+5;"=""Zakončení""";"=""text""";NULL_VALUE
+6;"=""Typ""";"=""text""";NULL_VALUE
+7;"=""Hloubka cylindru""";"=""text""";NULL_VALUE
+8;"=""Průměr cylindru""";"=""text""";NULL_VALUE
+9;"=""Opakovatelnost klíče""";"=""text""";NULL_VALUE
+10;"=""Typ klíče""";"=""text""";NULL_VALUE
+11;"=""Délka""";"=""text""";NULL_VALUE
+12;"=""Výška""";"=""text""";NULL_VALUE
+13;"=""Cena dopravy""";"=""text""";NULL_VALUE
+14;"=""Náhrada""";"=""text""";NULL_VALUE
